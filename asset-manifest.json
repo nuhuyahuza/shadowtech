@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shadowtech/static/css/main.69f94d5b.css",
+    "main.js": "/shadowtech/static/js/main.24e2f177.js",
+    "index.html": "/shadowtech/index.html",
+    "main.69f94d5b.css.map": "/shadowtech/static/css/main.69f94d5b.css.map",
+    "main.24e2f177.js.map": "/shadowtech/static/js/main.24e2f177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f94d5b.css",
+    "static/js/main.24e2f177.js"
+  ]
+}
